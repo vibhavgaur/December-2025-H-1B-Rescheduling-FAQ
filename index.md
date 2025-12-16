@@ -18,6 +18,7 @@ It reflects **only what people reported in the chat**, not official guidance.
 - ChatGPT was used to process the WhatsApp group's chat history and generate this FAQ (so take it with a grain of salt, and double-check important details as you deem necessary)
 
 ---
+## This information extracted from the chat as of 1 pm on December 16, 2025 (IST)
 
 ## Quick takeaways
 
@@ -33,10 +34,8 @@ It reflects **only what people reported in the chat**, not official guidance.
 ## 1) Why were appointments cancelled/rescheduled?
 
 **Q:** Why are appointments being cancelled en masse? Is there a reason?  
-**A (from chat):**
-- People believed it was a **mass administrative action** (not applicant-specific).
-- Theories mentioned: **holiday capacity reduction**, **backlog**, or **new vetting (social media)** — but **no confirmed official explanation** surfaced in the chat.
-- Multiple people said their social media was public and still got cancelled → **social media privacy likely not the cause**.
+**A:**
+- after some initial confusion, it became clear that appointments were cancelled due to the introduction of the new social media vetting policy in the isa approval process.
 
 ---
 
@@ -204,6 +203,5 @@ It reflects **only what people reported in the chat**, not official guidance.
 # Change log
 
 - **Initial version:** compiled from group chat discussion (bulk cancellations/reschedules).
-- You can add updates here as new patterns/official info emerges.
 
 ---
