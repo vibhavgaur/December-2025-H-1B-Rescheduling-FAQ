@@ -200,6 +200,10 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
+## Summary of experiences of people who have recently had their consular interviews
+
+Based on limited firsthand reports, consular interviews that did proceed during this period often resulted in 221(g) administrative processing, commonly citing additional review (including social media checks). No denials were reported in these cases, outcomes were either `APPROVED` or `221(g) PENDING REVIEW`
+
 # Change log
 
 - **Initial version:** compiled from group chat discussion (bulk cancellations/reschedules).
