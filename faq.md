@@ -191,6 +191,16 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
+## 18) Can I resubmit DS-160 with updated social media profiles if I didn't add them initially?
+
+**Q:** I filled my DS-160 a long time ago and didn't include social media profiles. Can I create a new DS-160 with updated social media information?  
+**A (from chat):**
+- **Yes, you can create a new DS-160** with updated social media profiles.
+- **Before OFC (biometrics):** You can fill out a new DS-160 and take both old and new DS-160 forms to the OFC appointment. Staff will update it in their system.
+- **After OFC (before consular interview):** You can still create a new DS-160 and take it to the consular interview. Multiple people reported doing this successfully. People also took a single page with all their social media handles and links listed and submitted that at the consular interview as well.
+
+---
+
 # Change log
 
 - **Initial version:** compiled from group chat discussion (bulk cancellations/reschedules).
