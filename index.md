@@ -29,6 +29,14 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
+## Emergency Request/Reschedule (ER)
+
+- for those who don't see an option in the portal to create an ER application:
+  - Log into the visa scheduling portal
+  - type in this URL on your homepage after logging in [https://www.usvisascheduling.com/en-US/requests/]
+  - click on Emergency Request and fill up the form
+
+---
 # FAQ
 
 ## 1) Why were appointments cancelled/rescheduled?
