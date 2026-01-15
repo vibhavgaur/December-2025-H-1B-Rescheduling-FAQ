@@ -18,7 +18,7 @@ It reflects **only what people reported in the chat**, not official guidance.
 - ChatGPT was used to process the WhatsApp group's chat history and generate this FAQ (so take it with a grain of salt, and double-check important details as you deem necessary)
 
 ---
-## This information extracted from the chat as of 1 pm on December 16, 2025 (IST)
+## This information extracted from the chat as of 4:22 PM on January 15, 2026 (IST)
 
 ## Quick takeaways
 
@@ -35,6 +35,9 @@ It reflects **only what people reported in the chat**, not official guidance.
   - Log into the visa scheduling portal
   - type in this URL on your homepage after logging in [https://www.usvisascheduling.com/en-US/requests/]
   - click on Emergency Request and fill up the form
+- People reported mixed ER statuses (e.g., **Open** vs **Under Review**) and unclear differences.
+- Some reported **no ER slots in Hyderabad** at the time; a few mentioned approvals in a few days in other locations.
+- A few people said they submitted ERs under **Business** category; outcomes varied.
 
 ---
 # FAQ
@@ -85,7 +88,16 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 6) Should I still attend my OFC (biometrics) if my consular is cancelled or might be cancelled?
+## 6) Are only consular appointments being rescheduled, or OFC too?
+
+**Q:** Are biometrics (OFC/VAC) getting cancelled, or just consular interviews?  
+**A (from chat):**
+- Many people reported **only consular interviews were rescheduled**, while OFC remained as scheduled.
+- A few people were unsure; the chat did not confirm broad OFC cancellations.
+
+---
+
+## 7) Should I still attend my OFC (biometrics) if my consular is cancelled or might be cancelled?
 
 **Q:** My OFC is still scheduled—should I go?  
 **A (from chat):**
@@ -94,7 +106,7 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 7) After OFC, can I reschedule only the consular appointment?
+## 8) After OFC, can I reschedule only the consular appointment?
 
 **Q:** If I complete OFC, can I reschedule just the interview?  
 **A (from chat):**
@@ -104,7 +116,7 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 8) My portal says I have attempts left, but there is no reschedule button
+## 9) My portal says I have attempts left, but there is no reschedule button
 
 **Q:** I see “attempt(s) left” but no reschedule UI—why?  
 **A (from chat):**
@@ -113,7 +125,16 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 9) If I attend OFC but cancel/miss consular, is that a “no-show” or denial?
+## 10) Do reschedule attempts reset or increase after auto-rescheduling?
+
+**Q:** I already used my reschedule attempts; do I get another attempt after the system auto-reschedules me?  
+**A (from chat):**
+- Multiple people reported **seeing a new reschedule attempt** appear after auto-rescheduling.
+- Some reported that the **reschedule option appeared after biometrics**, even if they had used attempts earlier.
+
+---
+
+## 11) If I attend OFC but cancel/miss consular, is that a “no-show” or denial?
 
 **Q:** Would attending one and cancelling the other count as a no-show / denial?  
 **A (from chat):**
@@ -123,7 +144,17 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 10) Can I return to the US if I already have a valid H-1B stamp?
+## 12) Should I cancel vs no-show? Will I lose fees?
+
+**Q:** If I decide not to attend, should I cancel or no-show? Will I lose fees?  
+**A (from chat + shared links):**
+- Many people advised **canceling instead of no-show**, to avoid wasting slots and reduce risk of account issues.
+- Shared guidance from ustraveldocs said **cancel at least two business days before** to avoid being marked a no-show.
+- The same guidance said **consular no-shows require a new fee payment** to schedule again; chat members also believed **no-show can forfeit fees**.
+
+---
+
+## 13) Can I return to the US if I already have a valid H-1B stamp?
 
 **Q:** If my consular is pushed out, can I travel back using my existing stamped visa?  
 **A (from chat):**
@@ -132,7 +163,7 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 11) What if my stamp is expired / this is my first stamping?
+## 14) What if my stamp is expired / this is my first stamping?
 
 **Q:** If my stamp is expired (or I’ve never had a stamp), what happens?  
 **A (from chat):**
@@ -141,7 +172,7 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 12) Should I travel to India if I haven’t flown yet?
+## 15) Should I travel to India if I haven’t flown yet?
 
 **Q:** My interview is coming up but I’m still in the US—should I go?  
 **A (from chat):**
@@ -150,7 +181,7 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 13) Are January appointments getting cancelled too?
+## 16) Are January appointments getting cancelled too?
 
 **Q:** Any cancellations for January interviews?  
 **A (from chat):**
@@ -159,7 +190,7 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 14) Is this related to social media profiles being public/private?
+## 17) Is this related to social media profiles being public/private?
 
 **Q:** Do I need to make social media public to avoid cancellation?  
 **A (from chat):**
@@ -168,7 +199,7 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 15) Can I work from India while waiting?
+## 18) Can I work from India while waiting?
 
 **Q:** Can I work remotely from India while stuck waiting for a new interview date?  
 **A (from chat):**
@@ -180,7 +211,7 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 16) Will the consulate/helpline help or prioritize cancelled candidates?
+## 19) Will the consulate/helpline help or prioritize cancelled candidates?
 
 **Q:** Will there be any help or prioritization?  
 **A (from chat):**
@@ -189,7 +220,16 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 17) Do I need to redo DS-160 / refile forms if I reschedule?
+## 20) Do I need to redo biometrics if my consular is moved months out?
+
+**Q:** I completed biometrics and my consular is now months later. Do I need to redo biometrics?  
+**A (from chat):**
+- People generally **assumed no**, and reported being able to **reschedule only the consular** after OFC.
+- No definitive official answer was confirmed in the chat.
+
+---
+
+## 21) Do I need to redo DS-160 / refile forms if I reschedule?
 
 **Q:** If I reschedule again, do I need to refill everything?  
 **A (from chat):**
@@ -198,7 +238,7 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
-## 18) Can I resubmit DS-160 with updated social media profiles if I didn't add them initially?
+## 22) Can I resubmit DS-160 with updated social media profiles if I didn't add them initially?
 
 **Q:** I filled my DS-160 a long time ago and didn't include social media profiles. Can I create a new DS-160 with updated social media information?  
 **A (from chat):**
@@ -208,12 +248,23 @@ It reflects **only what people reported in the chat**, not official guidance.
 
 ---
 
+## 23) Do I need to submit DS-160 before scheduling? Does it affect cancellations?
+
+**Q:** Do I need to submit DS-160 before scheduling, and does submission prevent rescheduling?  
+**A (from chat):**
+- People said you can **schedule with just the DS-160 application ID** (submission not required at that moment).
+- Several people reported being **rescheduled even after submitting DS-160**, so submission timing did **not** appear to prevent cancellations.
+
+---
+
 ## Summary of experiences of people who have recently had their consular interviews
 
-Based on limited firsthand reports, consular interviews that did proceed during this period often resulted in 221(g) administrative processing, commonly citing additional review (including social media checks). No denials were reported in these cases, outcomes were either `APPROVED` or `221(g) PENDING REVIEW`
+Based on limited firsthand reports, consular interviews that did proceed during this period often resulted in 221(g) administrative processing, commonly citing additional review (including social media checks). No denials were reported in these cases, outcomes were either `APPROVED` or `221(g) PENDING REVIEW`.
+- One shared report (Dec 15) said the officer indicated **3–5 days** of additional social media review, and **passports were kept** for 221(g), which people interpreted as a positive sign.
 
 # Change log
 
 - **Initial version:** compiled from group chat discussion (bulk cancellations/reschedules).
+- **Update (Jan 15, 2026):** refreshed extraction timestamp and added ER notes, cancel vs no-show guidance, reschedule attempt behavior, DS-160 submission timing, consular vs OFC clarification, and 221(g) interview anecdotes.
 
 ---
